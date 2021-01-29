@@ -35,19 +35,18 @@ If you like this project, and want it to last, please consider supporting.
 |Auto Leave Games|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Lit Building Music|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M3XLD3AUPR6LN)
-
-![alt text](https://i.imgur.com/fWJEh3Z.png "Premium Banner")
 
 By purchasing the the program, you agree to the following [terms and conditions](https://pastebin.com/raw/tEey3iAA).
+
+But now, the premium version is free 100%. You can use the spinbot, custom zone colour, texture colour change, ...
 
 
 ## 🔨 Installation
 
-1. Download this repo as a ZIP file. 
+1. Download this [repo](https://codeload.github.com/iBLiSSIN/survivio-plus/zip/master) as a ZIP file. 
 2. Extract the ZIP file you just downloaded. 
 3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.*
-4. Click "Load Unpacked" and select the folder that you extracted (called `survivio-cheat-master`)
+4. Click "Load Unpacked" and select the folder that you extracted (called `survivio-plus-master`)
 5. Open [surviv.io](http://surviv.io).
 
 ## 🤔 FAQ
