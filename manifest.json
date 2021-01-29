@@ -1,7 +1,7 @@
 {
 	"name": "Survivio+",
-	"version": "0.30.0",
-	"description": "Cheat for surviv.io game by iBLiSSIN",
+	"version": "0.31.0",
+	"description": "Will make by IceHacks and improve be plus version by me",
 	"permissions": [
 		"tabs",
 		"storage",
