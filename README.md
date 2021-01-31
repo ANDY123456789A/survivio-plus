@@ -14,7 +14,7 @@ If you like this project, and want it to last, please subcribe to [me on YouTube
 |Features|Free|Premium|
 |----------------|-------------------------------|-----------------------------|
 |Aimbot|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Spinbot|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Spinbot|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Bump Fire|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Scope Zoom|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |ESP (Enemy Lines)|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
