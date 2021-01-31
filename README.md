@@ -4,7 +4,7 @@
 
 This is a Surviv.io cheat loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), transferred to [Kalaborative](https://github.com/Kalaborative) but since both have been away, I (iBLiSSIN) have decided to take ownership of the development of the code. The hack is on Youtube, check it out [here](https://www.youtube.com/channel/UCLff8YzqQ-vIAFTKPTDz3RA/featured?view_as=subscriber).
 
-If you like this project, and want it to last, please consider supporting. 
+If you like this project, and want it to last, please subcribe to [me on YouTube](https://m.youtube.com/channel/UCMZkPR_pngZGGRB8Ec7BkHA). 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRT8N23GLN4LL&source=url)
 
