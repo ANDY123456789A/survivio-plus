@@ -22,7 +22,7 @@ If you like this project, and want it to last, please subcribe to [me on YouTube
 |Lasersight|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |FPS Counter|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Cursors|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Freezing|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
+|Freezing Fix|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |IP Tracking From Game|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
 |Account Banning|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
 |Super Accurate Aimbot|&nbsp;❌| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
