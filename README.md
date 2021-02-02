@@ -6,10 +6,9 @@ This is a Surviv.io cheat loaded as a Chrome extension. It was originally develo
 
 If you like this project, and want it to last, please subcribe to [me on YouTube](https://m.youtube.com/channel/UCMZkPR_pngZGGRB8Ec7BkHA). 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRT8N23GLN4LL&source=url)
 
 
-## Free Vs. Premium Version
+## Free Version Vs Premium Version
 
 |Features|Free|Premium|
 |----------------|-------------------------------|-----------------------------|
@@ -90,6 +89,3 @@ This is a feature for specific non-automatic guns (guns that you cannot hold dow
 
 Your contributions are always welcome. If you see something that should be improved or a feature added, feel free to fork this repo and create a PR. 
 
-> **What is your Discord server?**
-
-Code: HUktXMe
