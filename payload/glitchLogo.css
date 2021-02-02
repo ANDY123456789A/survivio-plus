@@ -1,6 +1,6 @@
 #start-row-header::before {
       content: """";
-      background-image: url(http://surviv.io/img/surviv_logo_full.png);
+      background-image: url(https://raw.githubusercontent.com/iBLiSSIN/survivio-plus/master/payload/C436B01C-6938-435A-BDF3-1B2B65339AF7.png);
       position: absolute;
       height: 100%;
       width: 100%;
@@ -14,7 +14,7 @@
     
 #start-row-header::after {
     content: """";
-    background-image: url(http://surviv.io/img/surviv_logo_full.png);
+    background-image: url(https://raw.githubusercontent.com/iBLiSSIN/survivio-plus/master/payload/C436B01C-6938-435A-BDF3-1B2B65339AF7.png);
     position: absolute;
     height: 100%;
     width: 100%;
